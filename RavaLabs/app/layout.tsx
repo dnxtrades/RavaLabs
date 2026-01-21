@@ -10,7 +10,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Rava Labs | Building the Future of Decentralized Finance",
   description:
-    "Rava Labs is a research and infrastructure studio advancing blockchain, AI security, and next-generation financial systems.",
+    "Rava Labs is a technology company focused on building decentralized financial infrastructure for the next generation of digital finance. The platform develops secure, scalable blockchain-based products including decentralized exchanges, institutional-grade wallets, core blockchain protocols, scalable financial systems and security & compliance tools.",
   icons: {
     icon: "/logo.png",
   },
